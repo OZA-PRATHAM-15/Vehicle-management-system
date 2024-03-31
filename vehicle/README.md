@@ -41,7 +41,7 @@ Download and install suitable XAMP server from this link - https://www.apachefri
 
 ***
 
-![Driver List](screenshots/driver_list.JPG)
+
 
 ***
 
@@ -49,7 +49,7 @@ Download and install suitable XAMP server from this link - https://www.apachefri
 
 ***
 
-![Trip Details](screenshots/trip_list.JPG)
+
 
 ***
 
@@ -57,7 +57,7 @@ Download and install suitable XAMP server from this link - https://www.apachefri
 
 ***
 
-![Fuel history](screenshots/fuel_history.JPG)
+
 
 ***
 
@@ -65,7 +65,7 @@ Download and install suitable XAMP server from this link - https://www.apachefri
 
 ***
 
-![Expense history](screenshots/expense_list.JPG)
+
 
 ***
 
